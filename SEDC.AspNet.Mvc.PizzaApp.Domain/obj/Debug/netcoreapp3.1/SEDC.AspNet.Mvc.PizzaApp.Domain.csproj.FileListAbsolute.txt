@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.Domain.deps.json
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.Domain.dll
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.Domain.pdb
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.Domain.AssemblyInfo.cs
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.Domain.dll
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.Domain.pdb

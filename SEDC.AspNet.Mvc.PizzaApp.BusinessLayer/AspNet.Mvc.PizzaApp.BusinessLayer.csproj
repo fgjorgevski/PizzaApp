@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="3.1.18" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SEDC.AspNet.Mvc.PizzaApp.DataAccess\AspNet.Mvc.PizzaApp.DataAccess.csproj" />
+    <ProjectReference Include="..\SEDC.AspNet.Mvc.PizzaApp.Domain\AspNet.Mvc.PizzaApp.Domain.csproj" />
+    <ProjectReference Include="..\SEDC.AspNet.Mvc.PizzaApp.Models\AspNet.Mvc.PizzaApp.Models.csproj" />
+  </ItemGroup>
+
+</Project>

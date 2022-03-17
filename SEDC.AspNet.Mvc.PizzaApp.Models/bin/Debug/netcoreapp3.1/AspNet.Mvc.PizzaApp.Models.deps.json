@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AspNet.Mvc.PizzaApp.Models/1.0.0": {
+        "dependencies": {
+          "AspNet.Mvc.PizzaApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AspNet.Mvc.PizzaApp.Models.dll": {}
+        }
+      },
+      "AspNet.Mvc.PizzaApp.Domain/1.0.0": {
+        "runtime": {
+          "AspNet.Mvc.PizzaApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNet.Mvc.PizzaApp.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspNet.Mvc.PizzaApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

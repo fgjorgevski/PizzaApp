@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.deps.json
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.runtimeconfig.json
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.runtimeconfig.dev.json
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.dll
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.pdb
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.Domain.dll
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.Domain.pdb
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.AssemblyInfo.cs
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.csproj.CopyComplete
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.dll
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.pdb
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.AspNet.Mvc.PizzaApp.DataAccess.genruntimeconfig.cache

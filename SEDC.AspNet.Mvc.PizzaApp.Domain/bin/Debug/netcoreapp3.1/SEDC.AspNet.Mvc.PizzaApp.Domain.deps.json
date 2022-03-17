@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.AspNet.Mvc.PizzaApp.Domain/1.0.0": {
+        "runtime": {
+          "SEDC.AspNet.Mvc.PizzaApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.AspNet.Mvc.PizzaApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

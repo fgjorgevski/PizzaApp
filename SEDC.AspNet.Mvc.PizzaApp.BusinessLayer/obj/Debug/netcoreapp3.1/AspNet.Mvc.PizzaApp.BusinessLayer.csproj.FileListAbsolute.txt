@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\bin\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.BusinessLayer.deps.json
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\bin\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.BusinessLayer.dll
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\bin\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.BusinessLayer.pdb
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\bin\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.DataAccess.dll
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\bin\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.Domain.dll
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\bin\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.Models.dll
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\bin\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.DataAccess.pdb
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\bin\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.Domain.pdb
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\bin\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.Models.pdb
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\obj\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\obj\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\obj\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.BusinessLayer.AssemblyInfo.cs
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\obj\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\obj\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.BusinessLayer.csproj.CopyComplete
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\obj\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.BusinessLayer.dll
+C:\Users\PC\Desktop\PizzaApplication\SEDC.AspNet.Mvc.PizzaApp\SEDC.AspNet.Mvc.PizzaApp.BusinessLayer\obj\Debug\netcoreapp3.1\AspNet.Mvc.PizzaApp.BusinessLayer.pdb
